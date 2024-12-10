@@ -76,6 +76,7 @@ Launch the Streamlit application for testing:
 streamlit run app.py
 ```
 My app will be available locally at http://localhost:8501.
+
 ---
 
 ### 3. Test a Single Image
