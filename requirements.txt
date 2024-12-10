@@ -1,5 +1,5 @@
-torch==2.0.1      # Match with your PyTorch version
-torchvision==0.15.2 # Match with your torchvision version
+torch   # Match with your PyTorch version
+torchvision # Match with your torchvision version
 albumentations
 matplotlib
 
