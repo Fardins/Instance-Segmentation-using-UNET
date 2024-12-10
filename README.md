@@ -91,22 +91,22 @@ python test_data.py
 Below is an example of the model's performance:
 
 ### Original Image
-![Original Image](output_images\image-1.jpg)
+![Original Image](output_images/image-1.jpg)
 
 ### Predicted Mask
-![Predicted Mask](output_images\mask-1.gif)
+![Predicted Mask](output_images/mask-1.gif)
 
 ### Original Image
-![Original Image](output_images\image-2.jpg)
+![Original Image](output_images/image-2.jpg)
 
 ### Predicted Mask
-![Predicted Mask](output_images\mask-2.gif)
+![Predicted Mask](output_images/mask-2.gif)
 
 ### Original Image
-![Original Image](output_images\image-3.jpg)
+![Original Image](output_images/image-3.jpg)
 
 ### Predicted Mask
-![Predicted Mask](output_images\mask-3.gif)
+![Predicted Mask](output_images/mask-3.gif)
 ---
 
 ## Notes
