@@ -91,7 +91,7 @@ python test_data.py
 Below is an example of the model's performance:
 
 ### Original Image
-![Original Image]<img src="output_images/image-1.jpg alt="Original Image" width="300" />
+![Original Image](<img src="output_images/image-1.jpg alt="Original Image" width="300"/>)
 
 ### Predicted Mask
 ![Predicted Mask](output_images/mask-1.gif)
